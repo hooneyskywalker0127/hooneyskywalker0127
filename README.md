@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sehoon 👋</h1>
-<p align="center"><b>Humanoid researcher @ KETI</b> — manipulation, VLAs, and world models, sim-first then real.</p>
+<p align="center"><b>Humanoid researcher @ KETI</b> — manipulation, VLAs, and world models.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sehoon-kim-7ba51a417"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
